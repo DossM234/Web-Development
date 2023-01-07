@@ -1,0 +1,55 @@
+.btn{
+    background-color: red;
+    color: white;
+}
+.btn:hover{
+    color: red;
+    background-color: white;
+}
+.navbar{
+    font-size: 60px;
+    font-weight: 600;
+}
+.btn1{
+    height: 51px;
+    width: 50%;
+    color: white;
+    background-color: red;
+    border: none;
+    margin-left: -2px;
+}
+.btn1:hover{
+    background-color: white;
+    color: cyan;
+    transition: 0.6s;
+}
+.btn1 .but2{
+    color: white;
+}
+.btn1 .but2:hover{
+    color: cyan;
+}
+.M{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color: rgba(0,0,0,0.9);
+    color: white;
+    text-align: center;
+letter-spacing: 2px;
+}
+
+    
+.bi:hover{
+    background-color: red;
+    color:white;
+}
+.b{
+    text-align: right;
+    width: 100%;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color: rgba(0,0,0,0.9);
+    color: white;
+}
+img:hover{
+    transform: scale(1.1);
+    cursor: pointer;
+}
